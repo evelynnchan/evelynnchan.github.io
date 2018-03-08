@@ -2,21 +2,21 @@
   "section_title": "Work Experience",
   "section_data": [
     {
-      "header": "Facebook",
-      "header_link": "https://facebook.com",
+      "header": "Microsoft",
+      "header_link": "https://microsoft.com",
       "title": "Software Engineer Intern (Incoming)",
-      "second_right_align": "August 2018 - December 2018",
-      "first_right_align": "Menlo Park, California",
+      "second_right_align": "May 2018 - August 2018",
+      "first_right_align": "Bellevue, Washington",
       "details": [
         "Incoming!"
       ]
     },
     {
-      "header": "Bridgewater Associates",
-      "header_link": "https://bridgewater.com",
-      "title": "Investment Engineer Intern (Incoming)",
-      "second_right_align": "June 2018 - August 2018",
-      "first_right_align": "Westport, Connecticut",
+      "header": "Kaiser Permanente",
+      "header_link": "https://kp.org",
+      "title": "Data Analyst Intern",
+      "second_right_align": "May 2017 - August 2017",
+      "first_right_align": "Oakland, California",
       "details": [
         "Incoming!"
       ]
